@@ -1,0 +1,48 @@
+/* Style all elements with the class name "pot" */
+.pot {
+  text-align:center;
+  font-size:300%;
+  font-family:Arial;
+  font-weight:bold;
+  color:blue;
+}
+/* Style all elements with the class name "yacht" */
+.yacht {
+  border:5px solid blue;
+  padding: 20px;
+  background-color:powderblue;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:45%;
+}
+/* Style all elements with the class name "stir" */
+.stir {
+  border:5px solid blue;
+  padding: 20px;
+  background-color:powderblue;
+  display:block;
+  margin-left: 75px;
+  margin-right: 75px;
+  font-family:Arial;
+  font-size:200%;
+  text-align:center;
+}
+/* Style all elements with the class name "byline" */
+.byline {
+  text-align:center;
+  font-family:Arial;
+  font-size:120%;
+}
+body {
+  background-color:lightgrey;
+  border-left:50px solid red;
+  border-right:50px solid red;
+  border-bottom:20px solid red;
+  background-clip: padding-box;
+}
+button {
+  width:200px;
+  height:50px;
+  border-color:red;
+}
